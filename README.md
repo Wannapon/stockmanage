@@ -1,1 +1,1 @@
-# stockmanage-api
+# stockmanage
