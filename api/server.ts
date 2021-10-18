@@ -1,5 +1,4 @@
 import express from 'express';
-import { send } from 'process';
 
 let app = express();
 
